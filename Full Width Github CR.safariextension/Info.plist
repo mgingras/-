@@ -20,15 +20,35 @@
 	<dict>
 		<key>Scripts</key>
 		<dict>
-			<key>Start</key>
+			<key>End</key>
 			<array>
-				<string></string>
+				<string>extension.js</string>
 			</array>
 		</dict>
+		<key>Whitelist</key>
+		<array>
+			<string>https://github.com/*/*/pull/*/files</string>
+		</array>
 	</dict>
 	<key>Description</key>
 	<string>Full Width Unified View for CR on GitHub</string>
+	<key>DeveloperIdentifier</key>
+	<string>5XSDTEK8RC</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Allowed Domains</key>
+			<array>
+				<string>github.com</string>
+			</array>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>Some</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
