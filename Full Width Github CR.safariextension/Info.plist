@@ -27,7 +27,7 @@
 		</dict>
 		<key>Whitelist</key>
 		<array>
-			<string>https://github.com/HiveHQ/tickets/pull/999/files</string>
+			<string>https://github.com/*/*/pull/*/files</string>
 		</array>
 	</dict>
 	<key>Description</key>
