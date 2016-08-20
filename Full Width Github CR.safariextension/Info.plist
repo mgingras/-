@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Martin Gingras</string>
+	<key>Builder Version</key>
+	<string>12602.1.50.0.2</string>
+	<key>CFBundleDisplayName</key>
+	<string>Full Width Github CR</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.mgingras.fullwidthgithubcr</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>Start</key>
+			<array>
+				<string></string>
+			</array>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>Full Width Unified View for CR on GitHub</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+</dict>
+</plist>
