@@ -1,4 +1,4 @@
-# full-width-gh-cr
+# Full width for Code Review on GitHub's unfied view
 Safari plugin to make unified view on github full width for code review
 
 Sometime people have trouble keeping lines short enough that they fit nicely in GitHub's unified view
